@@ -1,4 +1,4 @@
-﻿/*--This code was used to integrate with QuickBooks Accounting--*/
+﻿/*--This code was used to integrate with QuickBooks Accounting Software --*/
 public static class QB
     {
         public static void SyncEmployees()

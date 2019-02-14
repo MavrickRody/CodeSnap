@@ -1,3 +1,4 @@
+/*This Code was used to create tables*/
 using System;
 using System.Data;
 using System.Data.SqlClient;

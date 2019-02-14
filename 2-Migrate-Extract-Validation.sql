@@ -1,3 +1,6 @@
+---This Code is for doing General Journal Entries for the Software Package, it is one click dynamic code- I used it with Microsoft Coded UI and WhiteTest Case for Automation.
+
+
 SET ANSI_WARNINGS OFF
 
 DECLARE @query AS NVARCHAR(MAX)
